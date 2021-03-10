@@ -1,4 +1,4 @@
-### Hi there <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpa1.narvii.com%2F5974%2Ff9ec67d427fe5fc4ee1e2e157fc2b9195798642e_00.gif">
+### Hi there! <img width=50 src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpa1.narvii.com%2F5974%2Ff9ec67d427fe5fc4ee1e2e157fc2b9195798642e_00.gif">
 ##### I'm a backend developer and currently working at web-studio.
 <!--
 **kamnev8823/kamnev8823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
