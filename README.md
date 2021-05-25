@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Skills:
+ ![GO](https://img.shields.io/badge/Golang-0d1117?style=for-the-badge&logo=go)
  ![php](https://img.shields.io/badge/PHP\Laravel-0d1117?style=for-the-badge&logo=laravel)
  ![postgresql](https://img.shields.io/badge/Postgresql-0d1117?style=for-the-badge&logo=Postgresql)
  ![mariadb](https://img.shields.io/badge/mariadb-0d1117?style=for-the-badge&logo=mariadb)
