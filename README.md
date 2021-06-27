@@ -23,6 +23,7 @@ Here are some ideas to get you started:
  ![mysql](https://img.shields.io/badge/Mysql-0d1117?style=for-the-badge&logo=mysql)
  ![redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=Redis)
  ![linux](https://img.shields.io/badge/linux-0d1117?style=for-the-badge&logo=linux)
+ ![bash](https://img.shields.io/badge/bash-0d1117?style=for-the-badge&logo=GNUBash)
  ![nginx](https://img.shields.io/badge/nginx-0d1117?style=for-the-badge&logo=nginx)
 
 #### Stats:
