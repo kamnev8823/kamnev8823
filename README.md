@@ -24,7 +24,6 @@ Here are some ideas to get you started:
  ![redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=Redis)
  ![linux](https://img.shields.io/badge/linux-0d1117?style=for-the-badge&logo=linux)
  ![bash](https://img.shields.io/badge/bash-0d1117?style=for-the-badge&logo=GNUBash)
- ![nginx](https://img.shields.io/badge/nginx-0d1117?style=for-the-badge&logo=nginx)
 
 #### Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamnev8823&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&border_radius=20&layout=default&hide_title=true&hide=stars,contribs)
